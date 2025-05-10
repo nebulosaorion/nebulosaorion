@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**nebulosaorion/nebulosaorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Hi there! I'm Miriã Evangelista ✨</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast | 💻 Python & Front-End Developer<br>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Front--End-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♀️ About Me
+
+Hello! My name is **Miriã Evangelista**, I’m 29 years old and currently an undergraduate student in **Computer Engineering**.
+
+I have hands-on experience with **Python** and **ROS** (Robot Operating System), and I’m currently taking a **Front-End Development course** to strengthen my skill set and obtain certification.
+
+I’m an active member of the robotics team **FBOT**, contributing to software development. In addition, I participate in two academic projects:
+
+- 🎓 **Scholarship holder** in the **Intelligent Robot** project, focused on autonomous robotics and decision-making systems.
+- 🤝 **Volunteer** in the project **Simultaneous Sign Language Interpretation using AI**, which aims to improve accessibility with artificial intelligence.
+
+I’m passionate about combining **technology, accessibility, and automation** to develop impactful solutions.
+
+---
+
+## 🛠️ Skills
+
+- 🐍 Python
+- 🤖 ROS / ROS2
+- 🌐 Front-End Development *(in progress)*
+- 👥 Teamwork & Collaboration
+
+---
+
+## 🎯 Areas of Interest
+
+- Robotics and Embedded Systems  
+- Human-Robot Interaction  
+- Accessibility with Artificial Intelligence  
+- Web Development (ReactJS, HTML, CSS, JS)  
+- Applied AI in real-world solutions
+
+---
+
+## 📬 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/miri%C3%A3-evangelista/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:evangelista@furg.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
