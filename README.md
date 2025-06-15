@@ -28,7 +28,9 @@ I’m passionate about combining **technology, accessibility, and automation** t
 ## 🛠️ Skills
 
 - 🐍 Python
-- 🤖 ROS2
+- 🤖 ROS2(beginner)
+- 💻 C# (learning)
+- 🛠️ Back-End Development (in progress)
 - 🌐 Front-End Development *(in progress)*
 - 👥 Teamwork & Collaboration
 
