@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi there! I'm Miriã Evangelista ✨</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast | 💻 Python & Front-End Developer<br>
+  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast |
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Front--End-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
