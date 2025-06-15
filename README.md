@@ -1,11 +1,15 @@
-
 <h1 align="center">✨ Hi there! I'm Miriã Evangelista ✨</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast |
+  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast | 🌐 Front-End & 🛠️ Back-End Developer *(in progress)*
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Front--End-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Back--End-6E57E0?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ---
@@ -14,7 +18,7 @@
 
 Hello! My name is **Miriã Evangelista**, I’m 29 years old and currently an undergraduate student in **Computer Engineering**.
 
-I have hands-on experience with **Python** and **ROS** (Robot Operating System), and I’m currently taking a **Front-End Development course** to strengthen my skill set and obtain certification.
+I have hands-on experience with **Python** and **ROS** (Robot Operating System), and I’m currently taking **Front-End and Back-End Development courses** to strengthen my skills and obtain certification.
 
 I’m an active member of the robotics team **FBOT**, contributing to software development. In addition, I participate in two academic projects:
 
@@ -27,12 +31,12 @@ I’m passionate about combining **technology, accessibility, and automation** t
 
 ## 🛠️ Skills
 
-- 🐍 Python
-- 🤖 ROS2(beginner)
-- 💻 C# (learning)
-- 🛠️ Back-End Development (in progress)
-- 🌐 Front-End Development *(in progress)*
-- 👥 Teamwork & Collaboration
+- 🐍 Python  
+- 🤖 ROS2 *(beginner)*  
+- 💻 C# *(learning)*  
+- 🌐 Front-End Development *(in progress)*  
+- 🛠️ Back-End Development *(in progress)*  
+- 👥 Teamwork & Collaboration  
 
 ---
 
@@ -42,7 +46,7 @@ I’m passionate about combining **technology, accessibility, and automation** t
 - Human-Robot Interaction  
 - Accessibility with Artificial Intelligence  
 - Web Development (ReactJS, HTML, CSS, JS)  
-- Applied AI in real-world solutions
+- Applied AI in real-world solutions  
 
 ---
 
