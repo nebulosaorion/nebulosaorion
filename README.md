@@ -35,7 +35,7 @@ I’m passionate about combining **technology, accessibility, and automation** t
 - 🤖 ROS2 *(beginner)*  
 - 💻 C# *(learning)*  
 - 🌐 Front-End Development *(in progress)*  
-- 🛠️ Back-End Development *(in progress)*  
+- 🛠️ Back-End Development 
 - 👥 Teamwork & Collaboration  
 
 ---
