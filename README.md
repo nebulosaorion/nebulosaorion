@@ -1,66 +1,53 @@
-<h1 align="center">✨ Hi there! I'm Miriã Evangelista ✨</h1>
+<h1 align="center">✨ Olá! Eu sou a Miriã ✨</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student | 🤖 Robotics Enthusiast | 🌐 Front-End & 🛠️ Back-End Developer *(in progress)*
+  🎓 Estudante de Engenharia da Computação | 🤖 Entusiasta em Robótica | 🌐 Desenvolvedora Front-End & 🛠️ Back-End 
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Front--End-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Back--End-6E57E0?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6E57E0?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CvBridge-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Yasmin-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️ Sobre mim
 
-Hello! My name is **Miriã Evangelista**, I’m 29 years old and currently an undergraduate student in **Computer Engineering**.
+Olá! Meu nome é **Miriã Evangelista**, tenho 29 anos e atualmente sou graduanda em **Engenharia da Computação**.  
 
-I have hands-on experience with **Python** and **ROS** (Robot Operating System), and I’m currently taking **Front-End and Back-End Development courses** to strengthen my skills and obtain certification.
+Tenho experiência prática com **Python**,**ROS2**, **FastAPI**, **Docker**, **OpenCV (cv2)**, **CvBridge**, **Numpy**, **Yasmin**, **HTML**, **CSS**, **JS**
 
-I’m an active member of the robotics team **FBOT**, contributing to software development. In addition, I participate in two academic projects:
+Atualmente, participo ativamente de projetos e iniciativas acadêmicas:
 
-- 🎓 **Scholarship holder** in the **Intelligent Robot** project, focused on autonomous robotics and decision-making systems.
-- 🤝 **Volunteer** in the project **Simultaneous Sign Language Interpretation using AI**, which aims to improve accessibility with artificial intelligence.
+- 🤖 **Colaboradora** na equipe de robótica **FBOT**, o presente projeto visa contribuir para a excelência da formação curricular dos alunos. O qual culmina com a participação da equipe FURGBOT em competições nacionais e internacionais de robótica.
+- 🎓 **Bolsista** no projeto **Robô Inteligente**, com foco em robótica autônoma e sistemas de tomada de decisão.  
+- 🎓 **Bolsista** no projeto **CIEX**, iniciativa interinstitucional que proporcionará uma estrutura física qualificada e inovadora para a avaliação, prognóstico e mitigação de riscos de eventos extremos de inundação e estiagem, garantindo a segurança da população e das infraestruturas dos municípios às margens da Lagoa dos Patos, e possibilitando seu desenvolvimento sustentável e resiliente.
 
-I’m passionate about combining **technology, accessibility, and automation** to develop impactful solutions.
-
+ 
 ---
 
-## 🛠️ Skills
-
-- 🐍 Python  
-- 🤖 ROS2 *(beginner)*  
-- 💻 C# *(learning)*  
-- 🌐 Front-End Development *(in progress)*  
-- 🛠️ Back-End Development 
-- 👥 Teamwork & Collaboration  
-
----
-
-## 🎯 Areas of Interest
-
-- Robotics and Embedded Systems  
-- Human-Robot Interaction  
-- Accessibility with Artificial Intelligence  
-- Web Development (ReactJS, HTML, CSS, JS)  
-- Applied AI in real-world solutions  
-
----
-
-## 📬 Let's Connect
+## 🤝 **Contato**
 
 <p>
   <a href="https://www.linkedin.com/in/miri%C3%A3-evangelista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:evangelista@furg.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
