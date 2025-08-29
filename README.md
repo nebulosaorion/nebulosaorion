@@ -29,7 +29,7 @@ Tenho experiência prática com **Python**,**ROS2**, **FastAPI**, **Docker**, **
 
 Atualmente, participo ativamente de projetos e iniciativas acadêmicas:
 
-- 🤖 **Colaboradora** na equipe de robótica **FBOT**, o presente projeto visa contribuir para a excelência da formação curricular dos alunos. O qual culmina com a participação da equipe FURGBOT em competições nacionais e internacionais de robótica.
+- <img src="./assets/logo_transparente.png" alt="FBOT Logo" width="30"/>**Colaboradora** na equipe de robótica **FBOT**, o presente projeto visa contribuir para a excelência da formação curricular dos alunos. O qual culmina com a participação da equipe FURGBOT em competições nacionais e internacionais de robótica.
 - 🎓 **Bolsista** no projeto **Robô Inteligente**, com foco em robótica autônoma e sistemas de tomada de decisão.  
 - 🎓 **Bolsista** no projeto **CIEX**, iniciativa interinstitucional que proporcionará uma estrutura física qualificada e inovadora para a avaliação, prognóstico e mitigação de riscos de eventos extremos de inundação e estiagem, garantindo a segurança da população e das infraestruturas dos municípios às margens da Lagoa dos Patos, e possibilitando seu desenvolvimento sustentável e resiliente.
 
