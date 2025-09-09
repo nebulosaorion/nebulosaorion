@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seja%20Bem-vindo(a)!%20✨&fontSize=40&animation=twinkling&fontAlignY=35)
+
+
 <h1 align="center">✨ Olá! Eu sou a Miriã ✨</h1>
 
 <p align="center">
