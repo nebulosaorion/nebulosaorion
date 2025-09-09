@@ -31,7 +31,7 @@ Atualmente, participo ativamente de projetos e iniciativas acadêmicas:
 
 - <img src="./assets/robo_sem_fundo.png" alt="Robo" height="20"/>**Colaboradora** na equipe de robótica **FBOT**<img src="./assets/logo_sem_fundo.png" alt="FBOT Logo" width="15"/>, o presente projeto visa contribuir para a excelência da formação curricular dos alunos. O qual culmina com a participação da equipe FURGBOT em competições nacionais e internacionais de robótica.
 - 🎓 **Bolsista** no projeto **Robô Inteligente**, com foco em robótica autônoma e sistemas de tomada de decisão.  
-- 🎓 **Bolsista** no projeto<img src="https://raw.githubusercontent.com/nebulosaorion/nebulosaorion/main/assets/ciex.png" alt="Ciex" height="20"/>**CIEX**, iniciativa interinstitucional que proporcionará uma estrutura física qualificada e inovadora para a avaliação, prognóstico e mitigação de riscos de eventos extremos de inundação e estiagem, garantindo a segurança da população e das infraestruturas dos municípios às margens da Lagoa dos Patos, e possibilitando seu desenvolvimento sustentável e resiliente.
+- 🎓 **Bolsista** no projeto<img src="https://raw.githubusercontent.com/nebulosaorion/nebulosaorion/main/assets/ciex.png" alt="Ciex" height="25"/>**CIEX**, iniciativa interinstitucional que proporcionará uma estrutura física qualificada e inovadora para a avaliação, prognóstico e mitigação de riscos de eventos extremos de inundação e estiagem, garantindo a segurança da população e das infraestruturas dos municípios às margens da Lagoa dos Patos, e possibilitando seu desenvolvimento sustentável e resiliente.
 
  
 ---
