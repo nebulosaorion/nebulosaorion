@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=🚀%20Olá!%20Meu%20nome%20é%20Miriã%20👩‍💻%20Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=28&fontColor=ffffff&animation=scaleIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b19cd9,100:800080&height=200&width=1000&section=header&text=🚀%20Bem-vindo(a)%20ao%20meu%20universo!%20✨%20Eu%20sou%20Miriã&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 
 
