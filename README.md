@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seja%20Bem-vindo(a)!%20✨&fontSize=40&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:800080&height=200&section=header&text=🚀%20Bem-vindo(a)%20ao%20meu%20universo!%20✨%20Eu%20sou%20Miriã&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+
 
 
 
