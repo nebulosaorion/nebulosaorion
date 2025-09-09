@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Bem-vindo!✨&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:ff0000&height=200&section=header&text=🎮%20Welcome%20Player!%20🎮&fontSize=35&fontColor=ffffff&animation=blink)
+
 
 
 
