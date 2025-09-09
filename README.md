@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b19cd9,100:800080&height=200&width=2000&section=header&text=🚀%20Bem-vindo(a)%20ao%20meu%20universo!%20✨%20Eu%20sou%20Miriã&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b19cd9,100:800080&height=200&section=header&text=🚀%20Bem-vindo(a)%20ao%20meu%20universo!%20✨%20Eu%20sou%20Miriã&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 
 
 
