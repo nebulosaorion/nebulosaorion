@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seja%20Bem-vindo(a)!%20✨&fontSize=40&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=✨%20Bem-vindo(a)%20ao%20meu%20GitHub%20✨&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 
 <h1 align="center">✨ Olá! Eu sou a Miriã ✨</h1>
