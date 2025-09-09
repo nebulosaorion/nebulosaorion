@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Bem-vindo%20ao%20meu%20universo%20de%20código!&fontSize=30&animation=fadeIn&desc=Explore%20meus%20projetos%20✨&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Bem-vindo!✨&descAlignY=60&descAlign=50)
 
 
 
