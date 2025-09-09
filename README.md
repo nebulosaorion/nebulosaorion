@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=🌸%20Olá%2C%20eu%20sou%20Miriã%20🌸&fontSize=40&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=🚀%20Bem-vindo%20ao%20meu%20universo%20de%20código!&fontSize=30&animation=fadeIn&desc=Explore%20meus%20projetos%20✨&descAlignY=60&descAlign=50)
+
 
 
 <h1 align="center">✨ Olá! Eu sou a Miriã ✨</h1>
