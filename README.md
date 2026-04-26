@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  🎓 Estudante de Engenharia da Computação | 🤖 Entusiasta em Robótica | 🌐 Desenvolvedora Front-End & 🛠️ Back-End 
+  🎓 Estudante de Engenharia da Computação  |  Desenvolvedora Full Stack | Modelagem de Séries Temporais | Desenvolvimento Web
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🙋‍♀️ Sobre mim
+##  Sobre mim
 
 Olá! Meu nome é **Miriã Evangelista**, tenho 29 anos e atualmente sou graduanda em **Engenharia da Computação**.  
 
@@ -35,7 +35,7 @@ Atualmente, participo ativamente de projetos e iniciativas acadêmicas:
  
 ---
 
-## 🤝 **Contato**
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b27a591c-ae82-442a-8301-60fb38cca0b5" />  **Contato**
 
 <p>
   <a href="https://www.linkedin.com/in/miri%C3%A3-evangelista/" target="_blank">
